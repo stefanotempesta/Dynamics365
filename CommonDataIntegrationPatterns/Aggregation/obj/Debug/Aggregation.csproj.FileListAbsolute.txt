@@ -1,0 +1,15 @@
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Aggregation\bin\Debug\CommonDataIntegrationPatterns.Aggregation.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Aggregation\bin\Debug\CommonDataIntegrationPatterns.Aggregation.pdb
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Aggregation\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Aggregation\bin\Debug\Microsoft.ServiceBus.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Aggregation\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Aggregation\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Aggregation\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Aggregation\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Aggregation\bin\Debug\Microsoft.ServiceBus.xml
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Aggregation\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Aggregation\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Aggregation\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Aggregation\obj\Debug\Aggregation.csproj.CoreCompileInputs.cache
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Aggregation\obj\Debug\CommonDataIntegrationPatterns.Aggregation.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Aggregation\obj\Debug\CommonDataIntegrationPatterns.Aggregation.pdb

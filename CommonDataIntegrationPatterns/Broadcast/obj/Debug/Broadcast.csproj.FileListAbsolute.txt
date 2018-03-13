@@ -1,0 +1,16 @@
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Broadcast\bin\Debug\CommonDataIntegrationPatterns.Broadcast.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Broadcast\bin\Debug\CommonDataIntegrationPatterns.Broadcast.pdb
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Broadcast\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Broadcast\bin\Debug\Microsoft.ServiceBus.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Broadcast\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Broadcast\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Broadcast\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Broadcast\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Broadcast\bin\Debug\Microsoft.ServiceBus.xml
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Broadcast\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Broadcast\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Broadcast\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Broadcast\obj\Debug\Broadcast.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Broadcast\obj\Debug\Broadcast.csproj.CoreCompileInputs.cache
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Broadcast\obj\Debug\CommonDataIntegrationPatterns.Broadcast.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Broadcast\obj\Debug\CommonDataIntegrationPatterns.Broadcast.pdb

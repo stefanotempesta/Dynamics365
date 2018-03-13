@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CommonDataIntegrationPatterns.Correlation.HospitalServer" Collapsed="true">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAQgAAAACAAAAAAgAAAAAAAEAAIAAACA=</HashCode>
+      <FileName>HospitalServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommonDataIntegrationPatterns.Correlation.MedicalRecord" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQCiAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>MedicalRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommonDataIntegrationPatterns.Correlation.MedicalRecordEntity" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MedicalRecordEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommonDataIntegrationPatterns.Correlation.Patient" Collapsed="true">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiAEAAAAAAAACAAAAAAAAAAAAQAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Patient.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="MedicalRecords" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CommonDataIntegrationPatterns.Correlation.PatientEntity" Collapsed="true">
+    <Position X="1.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAACAAAAAAAAAAAAQAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>PatientEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommonDataIntegrationPatterns.Correlation.PatientService" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAgAAA=</HashCode>
+      <FileName>PatientService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CommonDataIntegrationPatterns.Correlation.MedicalRecordWorkflow" Collapsed="true">
+    <Position X="1.75" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAIAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MedicalRecordWorkflow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CommonDataIntegrationPatterns.Correlation.IPatientService">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>IPatientService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,16 @@
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Migration\bin\Debug\Migration.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Migration\bin\Debug\Migration.pdb
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Migration\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Migration\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Migration\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Migration\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Migration\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Migration\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Migration\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Migration\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Migration\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Migration\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Migration\obj\Debug\Migration.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Migration\obj\Debug\Migration.csproj.CoreCompileInputs.cache
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Migration\obj\Debug\Migration.dll
+D:\OneDrive\Workspace\GitHub\Dynamics365\CommonDataIntegrationPatterns\Migration\obj\Debug\Migration.pdb
